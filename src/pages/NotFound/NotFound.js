@@ -4,7 +4,7 @@ import React from 'react';
 const NotFound = () => {
     return(
        <div className='not-found'>
-        <p> Welcome and click on the navigation bar</p>
+        <p> Welcome Please click on the navigation bar optiions</p>
        </div>
     )
 }
