@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/nvnlmsl1.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/nvnlmsl1.github.io/static/js/main.86d29358.js",
+    "main.css": "/nvnlmsl1.github.io/static/css/main.1fb53987.css",
+    "main.js": "/nvnlmsl1.github.io/static/js/main.24da70ed.js",
     "static/js/787.7207d5f5.chunk.js": "/nvnlmsl1.github.io/static/js/787.7207d5f5.chunk.js",
-    "static/media/logo.svg": "/nvnlmsl1.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image1.jpg": "/nvnlmsl1.github.io/static/media/image1.6fa9bdf0a4ac9d56645e.jpg",
+    "static/media/salad1.jpg": "/nvnlmsl1.github.io/static/media/salad1.a70a618e11db59aa7f6e.jpg",
+    "static/media/soup1.jpg": "/nvnlmsl1.github.io/static/media/soup1.f617c8cb8a3109370968.jpg",
+    "static/media/dumpling1.jpg": "/nvnlmsl1.github.io/static/media/dumpling1.c9783f3cea964f261261.jpg",
+    "static/media/burger1.jpg": "/nvnlmsl1.github.io/static/media/burger1.352af2c8b2669b5a6479.jpg",
     "index.html": "/nvnlmsl1.github.io/index.html",
-    "main.f855e6bc.css.map": "/nvnlmsl1.github.io/static/css/main.f855e6bc.css.map",
-    "main.86d29358.js.map": "/nvnlmsl1.github.io/static/js/main.86d29358.js.map",
+    "main.1fb53987.css.map": "/nvnlmsl1.github.io/static/css/main.1fb53987.css.map",
+    "main.24da70ed.js.map": "/nvnlmsl1.github.io/static/js/main.24da70ed.js.map",
     "787.7207d5f5.chunk.js.map": "/nvnlmsl1.github.io/static/js/787.7207d5f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.86d29358.js"
+    "static/css/main.1fb53987.css",
+    "static/js/main.24da70ed.js"
   ]
 }
